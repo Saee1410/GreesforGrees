@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class stock {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;

@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class smallestwindo {
     public static String minWindow(String s, String p) {
         if (s == null || p == null || s.length() < p.length()) {

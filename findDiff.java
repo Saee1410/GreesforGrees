@@ -1,4 +1,3 @@
-import java.io.*;
 
 public class findDiff {
     static int search(int arr[], int n, int x, int k){
